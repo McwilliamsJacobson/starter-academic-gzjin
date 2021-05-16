@@ -154,5 +154,5 @@ cms:
   branch: master
   local_backend: false
 icon:
-  pack: true
+  pack: 
     ai: true
