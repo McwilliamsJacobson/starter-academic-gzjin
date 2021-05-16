@@ -37,7 +37,9 @@ abstract: We propose an equilibrium-driven deformation algorithm (EDDA) to simul
 summary: We propose an equilibrium-driven deformation algorithm (EDDA) to simulate the inbetweening transformations starting from an initial image to an equilibrium image, which covers images varying from a greyscale type to a colorful type on planes or manifolds.
 
 # Can only add one tag
-tags: [Inbetweening Auto-animation]
+tags:
+- Inbetweening Auto-animation
+- Data-driven
 
 # Display this page in the Featured widget?
 featured: true
