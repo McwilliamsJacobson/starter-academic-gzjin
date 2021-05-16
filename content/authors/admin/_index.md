@@ -6,15 +6,15 @@ title: Yuan Gao
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: William W. Elliott Assistant Research Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Duke University
-  url: https://www.stanford.edu/
+  url: https://www.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is (I) PDE analysis and numerical simulations for problems in materials sciences and interface dynamics, and (II) applied stochastic analysis for the Langevin dynamics in data science and surface hopping.
 
 # Interests to show in About widget
 interests:
@@ -25,53 +25,52 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD-student at Department of Mathematics
+    institution: Fudan University
+    year: 2012-2017
+  - course: Joint PhD-student at Department of Mathematics and Department of Physics
+    institution: Duke University
+    year: 2015-2016
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+#- icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=06tf1aYAAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interest is (I) PDE analysis and numerical simulations for problems in materials sciences and interface dynamics, and (II) applied stochastic analysis for the Langevin dynamics in data science and surface hopping. I mainly work on 4th order degenerated parabolic equations, coupled Ginzburg-Landau systems with dynamic boundary condition and multiscale models including phase transition and defects motion. I also work on numerical methods on contact line dynamics, Bayesian inference, manifold learning, hidden Markov model. The main tools involved are calculus of variation, convex analysis, maximal monotone operator, spectral analysis, gradient flows in metric spaces, optimal control theory, and applied stochastic calculus.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
