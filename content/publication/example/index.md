@@ -34,7 +34,7 @@ abstract: This work considers the rigorous derivation of continuum models of ste
 # Summary. An optional shortened abstract.
 summary: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work.
 
-tags: [Epitaxial Growth][BCF]
+tags: [Epitaxial Growth],[BCF]
 
 # Display this page in the Featured widget?
 featured: true
