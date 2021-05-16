@@ -2,16 +2,16 @@
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
-active: false
+active: true
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: You are welcome to contact with me.
 
 content:
   # Automatically link email and phone or display as text?
