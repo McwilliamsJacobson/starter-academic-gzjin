@@ -134,7 +134,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: GZJin
+  provider: wowchemy
   algolia:
     app_id: ''
     api_key: ''
