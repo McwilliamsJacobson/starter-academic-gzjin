@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuan Gao
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Duke University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Partial Differential Equations
 - Computational Linguistics
 - Information Retrieval
 
