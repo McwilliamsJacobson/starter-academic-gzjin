@@ -1,40 +1,40 @@
 ---
-title: "An example conference paper"
+title: "Continuum limit of a mesoscopic model with elasticity of step motion on vicinal surfaces"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Jian-Guo Liu
+- Jianfeng Lu
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Corresponding Author"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2017-06-01"
+doi: "10.1007/s00332-016-9354-1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-06-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Continuum Limit of a Mesoscopic Model with Elasticity of Step Motion on Vicinal Surfaces
+publication_short: Continuum Limit of a Mesoscopic Model
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work (Xiang in SIAM J Appl Math 63(1):241–258, 2002). We prove that as the lattice parameter goes to zero, for a finite time interval, a modified discrete model converges to the strong solution of the limiting PDE with first-order convergence rate.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work.
 
-tags: []
+tags: [Epitaxial Growth]
 
 # Display this page in the Featured widget?
 featured: true
@@ -66,14 +66,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- Yuan Gao's 1st Project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
