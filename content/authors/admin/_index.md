@@ -70,7 +70,8 @@ email: "yg86@duke.edu"
 highlight_name: true
 ---
 
-My research interest is (I) PDE analysis and numerical simulations for problems in materials sciences and interface dynamics, and (II) applied stochastic analysis for the Langevin dynamics in data science and surface hopping. I mainly work on 4th order degenerated parabolic equations, coupled Ginzburg-Landau systems with dynamic boundary condition and multiscale models including phase transition and defects motion. I also work on numerical methods on contact line dynamics, Bayesian inference, manifold learning, hidden Markov model. The main tools involved are calculus of variation, convex analysis, maximal monotone operator, spectral analysis, gradient flows in metric spaces, optimal control theory, and applied stochastic calculus.
+My research interest is (I) PDE analysis and numerical simulations for problems in materials sciences and interface dynamics, and (II) applied stochastic analysis for the Langevin dynamics in data science and surface hopping. 
+I mainly work on 4th order degenerated parabolic equations, coupled Ginzburg-Landau systems with dynamic boundary condition and multiscale models including phase transition and defects motion. I also work on numerical methods on contact line dynamics, Bayesian inference, manifold learning, hidden Markov model. The main tools involved are calculus of variation, convex analysis, maximal monotone operator, spectral analysis, gradient flows in metric spaces, optimal control theory, and applied stochastic calculus.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
