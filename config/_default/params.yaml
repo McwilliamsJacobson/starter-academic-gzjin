@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: yg86@duke.edu
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
@@ -30,8 +30,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '36.00233059822422'
+  longitude: '-78.93827468629667'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
@@ -134,7 +134,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: GZJin
   algolia:
     app_id: ''
     api_key: ''
