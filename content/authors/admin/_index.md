@@ -79,3 +79,5 @@ I mainly work on 4th order degenerated parabolic equations, coupled Ginzburg-Lan
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Contact with me via {{< staticref "mailto:yg86@duke.edu">}}yg86@duke.com{{< /staticref >}}.
