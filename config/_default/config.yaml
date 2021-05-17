@@ -5,7 +5,7 @@
 
 title: Yuan Gao # Website name
 baseurl: '' # Website URL
-copyright: '© {2021} Yuan Gao' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Yuan Gao' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
