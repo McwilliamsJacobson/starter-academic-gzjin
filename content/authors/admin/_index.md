@@ -49,6 +49,9 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=06tf1aYAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Yuan-Gao-4
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
