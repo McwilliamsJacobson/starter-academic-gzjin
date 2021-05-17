@@ -6,11 +6,14 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 20
+# Activate this widget? true/false
+active: false
 
-title: Research
-subtitle: "This is my main research."
+# Order that this section appears on the page.
+weight: 30
+
+title: Projects
+subtitle: "This is my main projects."
 
 content:
   # Page type to display. E.g. post, talk, publication...

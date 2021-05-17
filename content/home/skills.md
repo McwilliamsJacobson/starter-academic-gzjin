@@ -3,11 +3,14 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+# Activate this widget? true/false
+active: false
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 0
+weight: 100
 
 title: Skills
 subtitle: My Professional Skills 
