@@ -1,0 +1,2 @@
+icon.png must be 512x512 to show beside the homepage name.
+Logo.png can be any size to show beside the Home botton.
