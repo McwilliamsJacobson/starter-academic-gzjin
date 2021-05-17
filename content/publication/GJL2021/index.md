@@ -80,3 +80,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
+Relevent video:
+{{< youtube w7Ft2ymGmfc >}}
