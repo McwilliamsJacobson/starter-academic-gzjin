@@ -1,5 +1,5 @@
 ---
-title: "Continuum limit of a mesoscopic model with elasticity of step motion on vicinal surfaces"
+title: "Weak Solution of a Continuum Model For Vicinal Surface in The Attachment-Detachment-Limited Regime"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,11 +13,11 @@ authors:
 author_notes:
 - "Corresponding Author"
 
-date: "2017-06-01"
-doi: "10.1007/s00332-016-9354-1"
+date: "2017-05-11"
+doi: "10.1137/16M1094543"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-06-01"
+publishDate: "2017-05-11"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,16 +26,16 @@ publishDate: "2017-06-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Nonlinear Science
-publication_short: J. Nonlinear Sci
+publication: SIAM Journal on Mathematical Analysis
+publication_short: SIAM Journal on Mathematical Analysis
 
-abstract: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work (Xiang in SIAM J Appl Math 63(1):241–258, 2002). We prove that as the lattice parameter goes to zero, for a finite time interval, a modified discrete model converges to the strong solution of the limiting PDE with first-order convergence rate.
+abstract: We study in this work a continuum model derived from a one-dimensional attachment-detachment-limited type step flow on a vicinal surface, $ u_t=-u^2(u^3)_{hhhh}, $ where $u$, considered as a function of step height $h$, is the step slope of the surface. We formulate a notion of a weak solution to this continuum model and prove the existence of a global weak solution, which is positive almost everywhere. We also study the long time behavior of the weak solution and prove it converges to a constant solution as time goes to infinity. The space-time Hölder continuity of the weak solution is also discussed as a byproduct.
 
 # Summary. An optional shortened abstract.
-summary: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work.
+summary: We study in this work a continuum model derived from a one-dimensional attachment-detachment-limited type step flow on a vicinal surface.
 
 # Can only add one tag
-tags: ["Epitaxial growth"]
+tags: ["Epitaxial growth", "Thin film", "Global existence", "Long-time behavior", "Fourth-order degenerate parabolic equation", "BCF step dynamics"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Gao 2017**](http://10.1007/s00332-016-9354-1)'
+  caption: 'Image credit: [**Gao 2017**](https://doi.org/10.1137/16M1094543)'
   focal_point: ""
   preview_only: false
 

@@ -1,5 +1,5 @@
 ---
-title: "Continuum limit of a mesoscopic model with elasticity of step motion on vicinal surfaces"
+title: "Maximal monotone operator theory and its applications to thin film equation in epitaxial growth on vicinal surface"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,17 +7,18 @@ title: "Continuum limit of a mesoscopic model with elasticity of step motion on 
 authors:
 - admin
 - Jian-Guo Liu
-- Jianfeng Lu
+- Xin Yang Lu 
+- Xiangsheng Xu 
 
 # Author notes (optional)
 author_notes:
 - "Corresponding Author"
 
-date: "2017-06-01"
-doi: "10.1007/s00332-016-9354-1"
+date: "2018-03-10"
+doi: "10.1007/s00526-018-1326-x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-06-01"
+publishDate: "2018-03-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,16 +27,16 @@ publishDate: "2017-06-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Nonlinear Science
-publication_short: J. Nonlinear Sci
+publication: Calculus of Variations and Partial Differential Equations
+publication_short: Cal. Var.
 
-abstract: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work (Xiang in SIAM J Appl Math 63(1):241–258, 2002). We prove that as the lattice parameter goes to zero, for a finite time interval, a modified discrete model converges to the strong solution of the limiting PDE with first-order convergence rate.
+abstract: In this work we consider:𝑤𝑡=[(𝑤ℎℎ+𝑐0)−3]ℎℎ,𝑤(0)=𝑤0, which is derived from a thin film equation for epitaxial growth on vicinal surface. We formulate the problem as the gradient flow of a suitably-defined convex functional in a non-reflexive space. Then by restricting it to a Hilbert space and proving the uniqueness of its sub-differential, we can apply the classical maximal monotone operator theory. The mathematical difficulty is due to the fact that whh can appear as a positive Radon measure. We prove the existence of a global strong solution with hidden singularity. In particular, (1) holds almost everywhere when whh is replaced by its absolutely continuous part.
 
 # Summary. An optional shortened abstract.
-summary: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work.
+summary: We consider:𝑤𝑡=[(𝑤ℎℎ+𝑐0)−3]ℎℎ,𝑤(0)=𝑤0, which is derived from a thin film equation for epitaxial growth on vicinal surface.
 
 # Can only add one tag
-tags: ["Epitaxial growth"]
+tags: [""]
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Gao 2017**](http://10.1007/s00332-016-9354-1)'
+  caption: 'Image credit: [**Gao 2018**](https://doi.org/10.1007/s00526-018-1326-x)'
   focal_point: ""
   preview_only: false
 

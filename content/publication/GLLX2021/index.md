@@ -15,11 +15,11 @@ author_notes:
 - "First Author"
 - "Corresponding Author"
 
-date: "2021-06"
+date: "2021-06-01"
 doi: "10.3934/dcdsb.2020224"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06"
+publishDate: "2021-06-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
