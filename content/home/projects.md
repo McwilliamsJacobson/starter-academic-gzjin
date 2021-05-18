@@ -27,13 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Solid thin film growth
+  - name: Solid Thin Film 
     tag: Solid thin film growth
-  - name: Tear film evolution
+  - name: Tear Film
     tag: Tear film evolution
-  - name: Porous materials
+  - name: Porous Materials
     tag: Exact controllability and stabilization in porous materials
-  - name: Materials science
+  - name: Materials Science
     tag: Motion of defects in materials science including dislocations and grain boundaries
   - name: Other
     tag: other
