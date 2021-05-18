@@ -1,23 +1,23 @@
 ---
-title: "Continuum limit of a mesoscopic model with elasticity of step motion on vicinal surfaces"
+title: "Existence and uniqueness of bounded stable solutions to the Peierls–Nabarro model for curved dislocations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Hongjie Dong
 - admin
-- Jian-Guo Liu
-- Jianfeng Lu
 
 # Author notes (optional)
 author_notes:
+- "First Author"
 - "Corresponding Author"
 
-date: "2017-06-01"
-doi: "10.1007/s00332-016-9354-1"
+date: "2021-04-03"
+doi: "10.1007/s00526-021-01939-1"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-06-01"
+# Schedule page03 publish date (NOT publication's date).
+publishDate: "2021-04-03"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,16 +26,15 @@ publishDate: "2017-06-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Nonlinear Science
-publication_short: J. Nonlinear Sci
+publication: Calculus of Variations and Partial Differential Equations
+publication_short: Calc. Var.
 
-abstract: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work (Xiang in SIAM J Appl Math 63(1):241–258, 2002). We prove that as the lattice parameter goes to zero, for a finite time interval, a modified discrete model converges to the strong solution of the limiting PDE with first-order convergence rate.
+abstract: We study the well-posedness of the vector-field Peierls–Nabarro model for curved dislocations with a double well potential and a bi-states limit at far field. Using the Dirichlet to Neumann map, the 3D Peierls–Nabarro model is reduced to a nonlocal scalar Ginzburg–Landau equation. We derive an integral formulation of the nonlocal operator, whose kernel is anisotropic and positive when Poisson’s ratio. We then prove that any bounded stable solution to this nonlocal scalar Ginzburg–Landau equation has a 1D profile, which corresponds to the PDE version of flatness result for minimal surfaces with anisotropic nonlocal perimeter. Based on this, we finally obtain that steady states to the nonlocal scalar equation, as well as the original Peierls–Nabarro model, can be characterized as a one-parameter family of straight dislocation solutions to a rescaled 1D Ginzburg–Landau equation with the half Laplacian.
 
 # Summary. An optional shortened abstract.
-summary: This work considers the rigorous derivation of continuum models of step motion starting from a mesoscopic Burton–Cabrera–Frank-type model following the Xiang’s work.
+summary: We study the well-posedness of the vector-field Peierls–Nabarro model for curved dislocations with a double well potential and a bi-states limit at far field.
 
-# Can only add one tag
-tags: [Epitaxial Growth]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Gao 2017**](http://10.1007/s00332-016-9354-1)'
+  caption: 'Image credit: [**Gao 2021**](https://doi.org/10.1007/s00526-021-01939-1)'
   focal_point: ""
   preview_only: false
 
