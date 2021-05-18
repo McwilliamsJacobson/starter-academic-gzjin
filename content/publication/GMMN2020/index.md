@@ -13,7 +13,6 @@ authors:
 # Author notes (optional)
 author_notes:
 - "First Author"
-- "Corresponding Author"
 
 date: "2020-10-12"
 doi: "10.1103/PhysRevE.102.052112"
