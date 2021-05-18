@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 8
+weight: 80
 
 title: Contact
 subtitle: You are welcome to contact with me.

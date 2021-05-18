@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 4
+weight: 40
 
 title: Featured Publications
 subtitle: ''
