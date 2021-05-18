@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Solid thin film growth
+    tag: Solid thin film growth
+  - name: Tear film evolution
+    tag: Tear film evolution
+  - name: Porous materials
+    tag: Exact controllability and stabilization in porous materials
+  - name: Materials science
+    tag: Motion of defects in materials science including dislocations and grain boundaries
   - name: Other
-    tag: Demo
+    tag: other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
