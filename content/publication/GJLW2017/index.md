@@ -28,8 +28,8 @@ publishDate: "2017-03-21"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Physica D: Nonlinear Phenomena
-publication_short: Physica D: Nonlinear Phenomena
+publication: Physica D:Nonlinear Phenomena
+publication_short: Physica D:Nonlinear Phenomena
 
 abstract: Motivated by a model proposed by Peng et al. (2014) for break-up of tear films on human eyes, we study the dynamics of a generalized thin film model. The governing equations form a fourth-order coupled system of nonlinear parabolic PDEs for the film thickness and salt concentration subject to non-conservative effects representing evaporation. We analytically prove the global existence of solutions to this model with mobility exponents in several different ranges and present numerical simulations that are in agreement with the analytic results. We also numerically capture other interesting dynamics of the model, including finite-time rupture–shock phenomenon due to the instabilities caused by locally elevated evaporation rates, convergence to equilibrium and infinite-time thinning.
 
