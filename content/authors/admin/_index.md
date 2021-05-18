@@ -18,22 +18,22 @@ bio: My research interest is (I) PDE analysis and numerical simulations for prob
 
 # Interests to show in About widget
 interests:
-- Partial Differential Equations
-- Computational Linguistics
-- Information Retrieval
+- Partial Differential Equation
+- Material Science
+- Calculus of Variation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD-student at Department of Mathematics
-    institution: Fudan University
+  - course: Ph.D.
+    institution: Department of Mathematics, Fudan University
     year: 2012-2017
-  - course: Joint PhD-student at Department of Mathematics and Department of Physics
-    institution: Duke University
+  - course: Joint Ph.D.
+    institution: Department of Mathematics and Department of Physics, Duke University
     year: 2015-2016
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+  - course: BSc
+    institution: Department of Mathematics, Ocean University of China
+    year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
